@@ -32,3 +32,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![nodejs](https://img.shields.io/badge/Nodejs-3776AB?style=for-the-badge&logo=node&logoColor=white)
 ![java](https://img.shields.io/badge/Java-28B6F6?style=for-the-badge&logo=spring&logoColor=white)
+
+## 📞 Contact me 
+[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/PeterNeverMind)
+[![](https://img.shields.io/badge/-Linkedin-FFF?&logo=linkedin&logoColor=2962FF)](https://www.linkedin.com/in/hoang-cong-nguyen-542373180/)
